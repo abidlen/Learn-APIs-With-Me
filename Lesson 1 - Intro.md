@@ -7,5 +7,14 @@ Swagger
 ## Interacting with APIs
 Applications
 - Postman
+
+Languages
+- PowerShell
+  - Invoke-WebRequest
+    More verbose
+  - Invoke-RestMethod
+    Response will be an Object
+Webhook
+
 - 
 ## Authentication
